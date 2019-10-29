@@ -6,7 +6,7 @@ The dataset for this project contains the English blurb or description of 215513
 
 <b>- Wikipedia</b>
 
-The goal of this notebook is to perform sentiment word and usage analysis on successful and failed blurbs, to visualize the results and identify trends in blurb writing that may be useful for future Kickstarter blurb writers.
+The goal of this notebook is to perform sentiment and word usage analysis on successful and failed blurbs, to visualize the results and identify trends in blurb writing that may be useful for future Kickstarter blurb writers.
 
 Data Visualization performed using Plotly
 
