@@ -30,9 +30,9 @@ Although these donut charts represent different proportions of the total dataset
 
 The Sentiment Distribution for Successful and Failed blurbs are show above, the spike at 0 reflects the Neutral Compound scored blurbs where no positive or negative sentiment was found.
 
-<img src = 'sent_corr.png'>
+<img src = 'sent_corr.PNG'>
 
-<img src = 'sent_heat.png'>
+<img src = 'sent_heat.PNG'>
 
 Correlation Matrix and Heatmap indicate a very slight negative correlation between compound sentiment and successful blurbs and slight slighlt positive correlation between engative and neutral sentiment and successful blurbs
 
